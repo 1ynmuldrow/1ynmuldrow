@@ -10,13 +10,13 @@
 [![GitHub 1lynmuldrow](https://img.shields.io/github/followers/1ynmuldrow?label=follow&style=social)](https://github.com/1ynmuldrow)
 
 
-<br/><h2 align='right'>Nice to meet you.</h2>
+<br/><br/><br/><h2 align='right'>Nice to meet you.</h2>
 <p>I'm an engineer, educator, writer, and speaker, currently working with Tidelift to improve the lives of open source maintainers. I've helped to build tools used across the industry, educated audiences of all ages through tech curriculum and tutorials, and volunteer with organizations like Out In Tech to uplift the voices of those underrepresented in tech.</p>
 
 <p>In my free time I'm a gardener, and am learning floral artistry and horticulture. I like tending to flowers as much as I do code and the minds of the next generation of technologists. I'm also a casual gamer, mom, wife, nomad, crafter, and curious mind.</p>
 <br/><br/>
 
-<img align='right' src="https://s.hdnux.com/photos/63/31/43/13474029/4/ratio3x2_1800.jpg" width="330">
+<img align='right' src="https://s.hdnux.com/photos/63/31/43/13474029/4/ratio3x2_1800.jpg" width="430">
 
 <h2>Let's connect.</h2>
 I’m currently learning about new ways to engage in the open source community and am looking to contribute to projects built for social good. I'm proficient in:
