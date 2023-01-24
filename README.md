@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm Lyn.</h2>
 
-<p><em>Maintainer Advocate at <a href="http://www.tidelift.com">Tidelift</a>
+<p><em>Senior Maintainer Advocate at <a href="http://www.tidelift.com">Tidelift</a>
 </br>Advisory Board Member with <a href="https://www.devnetwork.com/about/advisory-boards/developer-evangelist-advocate-advisory-board/">DevNetworks Dev Advocate Advisory Board</a></em></p>
 
 [![Twitter: LynMuldrow](https://img.shields.io/twitter/follow/lynmuldrow?style=social)](https://twitter.com/lynmuldrow)
