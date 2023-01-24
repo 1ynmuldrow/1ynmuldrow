@@ -34,4 +34,4 @@ I’m currently learning about new ways to engage in the open source community a
 
 
 <p>📫 Connect with me to build together, share opportunities, and do work that matters. 
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/lyn-muldrow/30min'});return false;">Schedule time with me.</a></p>
+<a href="https://calendly.com/lyn-muldrow/30min">Schedule time with me.</a></p>
